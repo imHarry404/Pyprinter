@@ -2,7 +2,7 @@
 
 * Clone this repo and install the requirements
     ```bash
-    git clone https://github.com/imharry404/Pyprinter.git && cd Pyprinter && pip install -r requirements.txt
+    git clone https://github.com/imHarry404/Pyprinter && cd Pyprinter && pip install -r requirements.txt
     ```
 * Edit the ``arts/art.py`` file and add your texts and colors using color codes.
 
